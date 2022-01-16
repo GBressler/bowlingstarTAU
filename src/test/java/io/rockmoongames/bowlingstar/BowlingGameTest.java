@@ -8,4 +8,8 @@ public class BowlingGameTest {
     public void gregTestOne() {
 
     }
+
+    public void gregTestTwo() {
+
+    }
 }
